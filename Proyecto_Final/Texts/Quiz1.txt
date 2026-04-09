@@ -1,0 +1,69 @@
+What does AI stand for
+A. Automated Interface
+B. Artificial Intelligence
+C. Advanced Internet
+D. Algorithmic Input
+Correct: 1
+
+Which is an example of supervised learning
+A. Grouping customers by similarity without labels
+B. Predicting house prices using labeled training data
+C. Learning through trial and error with rewards
+D. Compressing images to reduce file size
+Correct: 1
+
+What is a neural network inspired by
+A. The human nervous system
+B. Planetary orbits
+C. Database indexing
+D. Traffic light systems
+Correct: 0
+
+What is overfitting in machine learning
+A. When a model performs well on new data
+B. When a model is too simple to learn patterns
+C. When a model learns noise and performs poorly on new data
+D. When training data is missing values
+Correct: 2
+
+What is the purpose of a validation set
+A. To train the model parameters
+B. To tune hyperparameters and check generalization during training
+C. To store backups of the dataset
+D. To deploy the model to production
+Correct: 1
+
+Which metric is commonly used for classification
+A. Accuracy
+B. Mean squared error
+C. R squared
+D. Mean absolute deviation
+Correct: 0
+
+What does NLP focus on
+A. Network Load Processing
+B. Natural Language Processing
+C. Neural Layer Programming
+D. Nonlinear Logic Precision
+Correct: 1
+
+What is a common use of reinforcement learning
+A. Sorting a list quickly
+B. Training an agent to play a game via rewards
+C. Converting text to uppercase
+D. Encrypting files with a password
+Correct: 1
+
+What is a dataset feature
+A. A rule the model always follows
+B. An input variable used by the model
+C. The final prediction output
+D. A software license
+Correct: 1
+
+What is the main goal of machine learning
+A. To manually program every decision rule
+B. To let systems learn patterns from data to make predictions or decisions
+C. To increase internet speed
+D. To replace all software with spreadsheets
+Correct: 1

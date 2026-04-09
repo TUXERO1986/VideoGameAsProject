@@ -1,0 +1,21 @@
+256 256 4 0
+5
+377 356 0.3 1 1 1 5 1 1 5 0 Images\Enemy1.png
+263 130 0.3 1 1 1 5 1 1 5 0 Images\Enemy1.png
+326 310 0.3 1 1 1 5 1 1 5 0 Images\Enemy1.png
+865 351 0.3 -1 1 1 5 1 1 5 0 Images\Enemy1.png
+840 110 0.3 -1 1 1 5 1 1 5 0 Images\Enemy1.png
+3
+445 64 1.5 1 1 3 2 0 Images\Ally1.png
+523 279 1.5 1 1 3 2 0 Images\Ally1.png
+552 329 1.5 1 1 3 2 0 Images\Ally1.png
+3
+501 44 2 2 0 Images\CriticResource1.png
+336 344 2 2 0 Images\CriticResource1.png
+713 196 2 2 0 Images\CriticResource1.png
+3
+372 274 2 2 0 Images\HelpfulResource1.png
+869 119 2 2 0 Images\HelpfulResource1.png
+286 193 2 2 0 Images\HelpfulResource1.png
+Images\Level1World.png
+1

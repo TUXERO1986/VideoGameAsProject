@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Model">
+      <UniqueIdentifier>{f018153f-ecd0-4c2a-8bc8-c19926d94d4f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI">
+      <UniqueIdentifier>{c762a8fe-86b6-4c9e-b4c7-12cd3e51f281}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Controller">
+      <UniqueIdentifier>{b7462112-eb51-4be2-b5c1-bce6b17bc108}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{d55abf6f-3196-4480-88ec-48334e6cee8b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="FrmMainInterface.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="FrmLevel1.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Blue_Fox_Character.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelController.cpp">
+      <Filter>Controller</Filter>
+    </ClCompile>
+    <ClCompile Include="Black_Fox_Character.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Character.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="FrmCharacterPick.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Background.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="InitialMenuController.cpp">
+      <Filter>Controller</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="FilesManagement.cpp">
+      <Filter>Controller</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogueController.cpp">
+      <Filter>Controller</Filter>
+    </ClCompile>
+    <ClCompile Include="Dialogue.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Portal.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Ally.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Question.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+    <ClCompile Include="QuestionController.cpp">
+      <Filter>Controller</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FrmMainInterface.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="FrmLevel1.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Blue_Fox_Character.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelController.h">
+      <Filter>Controller</Filter>
+    </ClInclude>
+    <ClInclude Include="Black_Fox_Character.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Character.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="FrmCharacterPick.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Background.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="InitialMenuController.h">
+      <Filter>Controller</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="FilesManagement.h">
+      <Filter>Controller</Filter>
+    </ClInclude>
+    <ClInclude Include="DialogueController.h">
+      <Filter>Controller</Filter>
+    </ClInclude>
+    <ClInclude Include="Dialogue.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Portal.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Ally.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Question.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="QuestionController.h">
+      <Filter>Controller</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="ash.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="BlueCharacterBullet.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="btnExitBackGround.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="btnOptionsBackGround.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="BtnPlayBackGround.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="hamp.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="Level1World.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="Level2World.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="MenuInitiaBackGround.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="mundohamp.jpg">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="pikachu.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="RedCommentor.png">
+      <Filter>Resources</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
